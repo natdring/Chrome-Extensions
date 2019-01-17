@@ -1,7 +1,7 @@
 {
-    "name": "Chrome Extension Example",
+    "name": "Timer",
     "version": "1.0",
-    "description": "Build and Extension!",
+    "description": "Basic Timer",
     "manifest_version": 2,
     "author": "Nat Dring",
 
@@ -17,17 +17,11 @@
     "browser_action": {
         "default_popup": "popup.html",
         "default_icon": {
-            "16": "images/img16.png",
-            "32": "images/img32.png",
-            "48": "images/img48.png",
-            "128": "images/img128.png"
+            "128": "images/img.png"
         }
     },
 
     "icons": {
-        "16": "images/img16.png",
-        "32": "images/img32.png",
-        "48": "images/img48.png",
-        "128": "images/img128.png"
+        "128": "images/img.png"
     }
 }
