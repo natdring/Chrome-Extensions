@@ -1,0 +1,22 @@
+button {
+    width: 90%;
+    margin: 1% auto;
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    font-size: 1em;
+    padding: 0.5em;
+    border-radius: 6px;
+}
+
+button:hover {
+    background-color: #0576BA;
+    cursor: pointer;
+}
+
+body{
+    width: 125px;
+    height: 75px;
+    position: relative;
+    vertical-align:middle;
+}
